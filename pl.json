@@ -1,0 +1,316 @@
+{
+  "full_name": "Polski",
+  "close": "zamknij",
+  "titles": {
+    "about": "O mnie",
+    "contact": "Kontakt",
+    "experience": "Doświadczenie",
+    "home": "Strona główna",
+    "projects": "Projekty"
+  },
+  "slide-menu": {
+    "download": "Pobierz CV"
+  },
+  "home": {
+    "job_profession": "Junior Full Stack Developer"
+  },
+  "about": {
+    "description": "Jestem osobą młodą, ambitną oraz szybko dostosowującą się do zmiennej sytuacji czy środowiska. Obecnie studiuję informatykę na University of Twente w Holandii, a także jestem skarbnikiem komitetu edukacyjnego organizacji Inter-Actief. Odkąd skończyłem dziewiętnaście lat, mieszkałem w różnych krajach, co pozwoliło mi na naukę nowych języków, a także innej perspektywy na życie, co przekładam na moją pracę.",
+    "titles": {
+      "skills": "Umiejętności",
+      "interests": "Zainteresowania",
+      "details": "Info",
+      "languages": "Języki",
+      "scope_of_duties": "Zakres obowiązków",
+      "education": "Edukacja",
+      "additional": "Działalność dodatkowa"
+    },
+    "education": [
+      {
+        "title": "University of Twente",
+        "date": "2019.09.01",
+        "start_date": "Wrzesień 2019",
+        "end_date": "obecnie",
+        "position": "Informatyka, Licencjat Nauk Ścisłych",
+        "description": "",
+        "edu": true
+      }
+    ],
+    "additional_activities": [
+      {
+        "title": "Inter-Actief (Komitet Edukacji)",
+        "date": "2019.03.01",
+        "start_date": "Listopad 2018",
+        "end_date": "Lipiec 2020",
+        "position": "Skarbnik",
+        "description": "",
+        "scope": [
+          "Rozwiązywanie skarg studentów",
+          "Organizacja wydarzeń edukacyjnych",
+          "Zarządzanie finansami komitetu"
+        ],
+        "edu": false
+      },
+      {
+        "title": "Akademia Przyszłości",
+        "date": "2016.04.01",
+        "start_date": "Kwiecień 2016",
+        "end_date": "Wrzesień 2016",
+        "position": "Organizacja i marketing",
+        "description": "",
+        "scope": [
+          "Pomoc i wsparcie dla dzieci w trudnej sytuacji życiowej"
+        ],
+        "edu": false
+      },
+      {
+        "title": "Wolsztyński Wolontariat",
+        "date": "2015.04.01",
+        "start_date": "Styczeń 2015",
+        "end_date": "Marzec 2017",
+        "position": "Organizacja i marketing",
+        "description": "",
+        "scope": [
+          "Organizacja wydarzeń charytatywnych oraz sportowych, a także projektów społecznych"
+        ],
+        "edu": false
+      }
+    ],
+    "skills_list": [
+      "Zarządzanie projektami społecznymi",
+      "Zarządzanie projektami",
+      "Metodologia Scrum",
+      "Rozwiązywanie problemów",
+      "Praca w zespole"
+    ],
+    "info": [
+      {
+        "key": "Imię i nazwisko",
+        "value": "Bartosz Przadka"
+      },
+      {
+        "key": "Lokalizacja",
+        "value": "Enschede, Holandia"
+      },
+      {
+        "key": "Data urodzenia",
+        "value": "13 Sierpnia 1998"
+      },
+      {
+        "key": "Narodowość",
+        "value": "Polska"
+      }
+    ],
+    "interests": {
+      "snowboarding": "Snowboarding",
+      "cinema": "Kino",
+      "travelling": "Podróże",
+      "exploring_cultures": "Odkrywanie innych kultur"
+    }
+  },
+  "experience": {
+    "technology_stack": "Technologie",
+    "projects": "Projekty",
+    "titles": {
+      "job_specification": "Zakres obowiązków:",
+      "tools": "Narzędzia"
+    },
+    "tools_list": [
+      {
+        "name": "Git - GitLab, GitHub",
+        "level": 5
+      },
+      {
+        "name": "Intellij IDEA",
+        "level": 5
+      },
+      {
+        "name": "Google Chrome",
+        "level": 4
+      },
+      {
+        "name": "REST Api",
+        "level": 5
+      },
+      {
+        "name": "JSON",
+        "level": 5
+      },
+      {
+        "name": "XML",
+        "level": 5
+      },
+      {
+        "name": "WebStorm",
+        "level": 5
+      },
+      {
+        "name": "PyCharm",
+        "level": 4
+      },
+      {
+        "name": "Anaconda",
+        "level": 3
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": 3
+      },
+      {
+        "name": "Notepad++",
+        "level": 5
+      },
+      {
+        "name": "Yarn",
+        "level": 5
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": 1
+      },
+      {
+        "name": "Windows",
+        "level": 5
+      },
+      {
+        "name": "Linux",
+        "level": 4
+      },
+      {
+        "name": "Eclipse",
+        "level": 3
+      },
+      {
+        "name": "Adobe Illustrator",
+        "level": 1
+      }
+    ],
+    "work_list": [
+      {
+        "title": "Tecnopool S.P.A. (Włochy)",
+        "date": "2017.06.01",
+        "start_date": "Czerwiec 2017",
+        "end_date": "Sierpień 2018",
+        "position": "Stanowisko ogólne",
+        "description": "",
+        "job_specification": [
+          "Obsługa robotów oraz maszyn przemysłowych",
+          "Montaż maszyn przemysłowych przeznaczonych dla sektora spożywczego",
+          "Przygotowanie maszyn do wysyłki"
+        ],
+        "edu": false
+      },
+      {
+        "title": "Cofano Software Solutions (Holandia)",
+        "date": "2020.06.22",
+        "start_date": "Czerwiec 2020",
+        "end_date": "obecnie",
+        "position": "Junior Full Stack Developer",
+        "description": "",
+        "edu": false
+      }
+    ],
+    "projects_list": [
+      {
+        "id": 1,
+        "name": "Spectrangle",
+        "year": "2018",
+        "type": "Gra Online",
+        "main_language": "Java",
+        "technology": [
+          "java"
+        ],
+        "description": "Gra wieloosobowa napisana w Javie z serwerem i klientami, komunikującymi się poprzez  tekstowy UI z trybem offline. Użytkownicy mogą wybrać pionek i jego konfigurację",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/spectrangle_jwmule.webp"
+      },
+      {
+        "id": 2,
+        "name": "Data Dashboard",
+        "year": "2019",
+        "type": "Aplikacja Internetowa",
+        "main_language": "Python",
+        "technology": [
+          "python",
+          "html",
+          "js",
+          "css"
+        ],
+        "description": "Aplikacja, w której wszystkie tweety dotyczące wydarzenia organizacji są analizowane i wyświetlane",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/bata_dashboard_b4yhca.webp"
+      },
+      {
+        "id": 3,
+        "name": "CV",
+        "year": "2020",
+        "type": "Strona Internetowa",
+        "main_language": "VueJS",
+        "technology": [
+          "vuejs",
+          "js",
+          "html",
+          "sass",
+          "jquery"
+        ],
+        "description": "Celem tej strony było pokazanie mojej wiedzy i umiejętności w zakresie projektowania stron internetowych. Wykorzystuje ona VueJS jako główną bibliotekę JS oraz wiele rozszerzeń i struktur Vue, takich jak I18n,  V-router, kilka elementów Vuetify i wiele innych",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/cv_website_ckamdp.webp"
+      },
+      {
+        "id": 4,
+        "name": "Data Dashboard",
+        "year": "2019",
+        "type": "Aplikacja Internetowa",
+        "main_language": "Java",
+        "technology": [
+          "javaee",
+          "js",
+          "html",
+          "css",
+          "bootstrap",
+          "postgre"
+        ],
+        "description": "Strona, na której prezentowane są statystyki i dane organizacji. Opiera się na Javie EE jako back-end, Bootstrap, Google sign-in oraz Apache Servlet",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/cofano_msaoev.webp"
+      },
+      {
+        "id": 5,
+        "name": "Aplikacja przeciwko paleniu",
+        "year": "2019",
+        "type": "Aplikacja Mobilna",
+        "main_language": "VueJS",
+        "technology": [
+          "vuejs",
+          "html",
+          "sass",
+          "python"
+        ],
+        "description": "Aplikacja napisana w VueJS, której celem było pomóc palaczom w rzuceniu nałogu. Zawiera Python back-end dla machine learning",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/smoker_app_cze4d3.webp"
+      }
+    ]
+  },
+  "contact": {
+    "name": "Imię",
+    "email": "E-mail",
+    "message": "Wiadomość",
+    "send": "Wyślij",
+    "sent": "Wiadomość wysłana!",
+    "not_sent": "Ooh... wystąpił błąd. Spróbuj ponownie wysłać wiadomość.",
+    "close": "Zamknij",
+    "form": "Formularz kontaktowy"
+  },
+  "languages": {
+    "polish": "Polski",
+    "italian": "Włoski",
+    "spanish": "Hiszpański",
+    "english": "Angielski"
+  },
+  "levels": {
+    "native": "Ojczysty",
+    "fluent": "Płynny",
+    "communicative": "Komunikatywny",
+    "elementary": "Podstawowy"
+  },
+  "error_404": {
+    "msg": "Ooh... podana strona nie istnieje. Idź do strony głównej ;)"
+  }
+}

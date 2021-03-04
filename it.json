@@ -1,0 +1,316 @@
+{
+  "full_name": "Italiano",
+  "close": "chiudi",
+  "titles": {
+    "about": "Profilo",
+    "contact": "Contatto",
+    "experience": "Esperienza",
+    "home": "Home",
+    "projects": "Progetti"
+  },
+  "slide-menu": {
+    "download": "Scarica il CV"
+  },
+  "home": {
+    "job_profession": "Junior Full Stack Developer"
+  },
+  "about": {
+    "description": "Sono una persona giovane, ambiziosa e in rapido adattamento, che non teme alcuna sfida. Attualmente sto seguendo la laurea in Informatica presso l'Università di Twente e sono un tesoriere del Comitato per l'Istruzione d'Inter-Actief. Da quando avevo diciannove anni vivo in diversi paesi, il che mi ha permesso di imparare nuove lingue e nuove prospettive di vita che ho sempre messo nel mio lavoro.",
+    "titles": {
+      "skills": "Abilità",
+      "interests": "Interessi",
+      "details": "Info",
+      "languages": "Lingue",
+      "scope_of_duties": "Portata dei compiti",
+      "education": "Istruzione",
+      "additional": "Attività aggiuntiva"
+    },
+    "education": [
+      {
+        "title": "University of Twente",
+        "date": "2019.09.01",
+        "start_date": "Settembre 2019",
+        "end_date": "presente",
+        "position": "Informatica, Laurea di Scienza",
+        "description": "",
+        "edu": true
+      }
+    ],
+    "additional_activities": [
+      {
+        "title": "Inter-Actief (Comitato per l'educazione)",
+        "date": "2019.03.01",
+        "start_date": "Novembre 2018",
+        "end_date": "Luglio 2020",
+        "position": "Tesoriere",
+        "description": "",
+        "scope": [
+          "Affrontare i reclami degli studenti",
+          "Organizzazione di attività legate all'istruzione",
+          "Gestione delle finanze del comitato"
+        ],
+        "edu": false
+      },
+      {
+        "title": "Akademia Przyszłości",
+        "date": "2016.04.01",
+        "start_date": "Aprile 2016",
+        "end_date": "Settembre 2016",
+        "position": "Gestione dell'organizzazione e marketing",
+        "description": "",
+        "scope": [
+          "Aiutare e sostenere i bambini in una situazione di vita difficile"
+        ],
+        "edu": false
+      },
+      {
+        "title": "Wolsztyński Wolontariat",
+        "date": "2015.04.01",
+        "start_date": "Gennaio 2015",
+        "end_date": "Marzo 2017",
+        "position": "Gestione dell'organizzazione e marketing",
+        "description": "",
+        "scope": [
+          "Organizzazione di eventi di beneficenza, eventi sportivi e progetti comunitari"
+        ],
+        "edu": false
+      }
+    ],
+    "skills_list": [
+      "Gestione di progetti comunitari",
+      "Gestione di progetti",
+      "Metodologia Scrum",
+      "Risoluzione dei problemi",
+      "Lavoro di gruppo"
+    ],
+    "info": [
+      {
+        "key": "Nome",
+        "value": "Bartosz Przadka"
+      },
+      {
+        "key": "Posizione",
+        "value": "Enschede, Paesi Bassi"
+      },
+      {
+        "key": "Data di nascita",
+        "value": "13 Agosto 1998"
+      },
+      {
+        "key": "Nazionalità ",
+        "value": "Polacca"
+      }
+    ],
+    "interests": {
+      "snowboarding": "Snowboarding",
+      "cinema": "Cinema",
+      "travelling": "Viaggiare",
+      "exploring_cultures": "Esplorare l'altre culture"
+    }
+  },
+  "experience": {
+    "technology_stack": "Stack Tecnologico",
+    "projects": "Progetti",
+    "titles": {
+      "job_specification": "Specifiche del lavoro:",
+      "tools": "Strumenti"
+    },
+    "tools_list": [
+      {
+        "name": "Git - GitLab, GitHub",
+        "level": 5
+      },
+      {
+        "name": "Intellij IDEA",
+        "level": 5
+      },
+      {
+        "name": "WebStorm",
+        "level": 5
+      },
+      {
+        "name": "PyCharm",
+        "level": 4
+      },
+      {
+        "name": "Google Chrome",
+        "level": 4
+      },
+      {
+        "name": "REST Api",
+        "level": 5
+      },
+      {
+        "name": "JSON",
+        "level": 5
+      },
+      {
+        "name": "XML",
+        "level": 5
+      },
+      {
+        "name": "Anaconda",
+        "level": 3
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": 3
+      },
+      {
+        "name": "Notepad++",
+        "level": 5
+      },
+      {
+        "name": "Yarn",
+        "level": 5
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": 1
+      },
+      {
+        "name": "Windows",
+        "level": 5
+      },
+      {
+        "name": "Linux",
+        "level": 4
+      },
+      {
+        "name": "Eclipse",
+        "level": 3
+      },
+      {
+        "name": "Adobe Illustrator",
+        "level": 1
+      }
+    ],
+    "work_list": [
+      {
+        "title": "Tecnopool S.P.A. (Italia)",
+        "date": "2017.06.01",
+        "start_date": "Giugno 2017",
+        "end_date": "Agosto 2018",
+        "position": "Posizione generale",
+        "description": "",
+        "job_specification": [
+          "Servizio di robot e macchinari industriali",
+          "Assemblaggio di macchine industriali presso il cliente",
+          "Preparazione dei materiali per la spedizione"
+        ],
+        "edu": false
+      },
+      {
+        "title": "Cofano Software Solutions (Paesi Bassi)",
+        "date": "2020.06.22",
+        "start_date": "Giugno 2020",
+        "end_date": "presente",
+        "position": "Junior Full Stack Developer",
+        "description": "",
+        "edu": false
+      }
+    ],
+    "projects_list": [
+      {
+        "id": 1,
+        "name": "Spectrangle",
+        "year": "2018",
+        "type": "Gioco Online",
+        "main_language": "Java",
+        "technology": [
+          "java"
+        ],
+        "description": "Gioco multiplayer, scritto in Java con server e cliente, che interagisce attraverso l'interfaccia utente di testo con modalità offline. Gli utenti possono selezionare un riquadro e la sua configurazione",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/spectrangle_jwmule.webp"
+      },
+      {
+        "id": 2,
+        "name": "Data Dashboard",
+        "year": "2019",
+        "type": "Applicazione Web",
+        "main_language": "Python",
+        "technology": [
+          "python",
+          "html",
+          "js",
+          "css"
+        ],
+        "description": "Applicazione, in cui vengono analizzati e visualizzati tutti i tweet relativi all'evento dell'organizzazione",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/bata_dashboard_b4yhca.webp"
+      },
+      {
+        "id": 3,
+        "name": "Curriculum",
+        "year": "2020",
+        "type": "Sito Web",
+        "main_language": "VueJS",
+        "technology": [
+          "vuejs",
+          "js",
+          "html",
+          "sass",
+          "jquery"
+        ],
+        "description": "Lo scopo di questo sito Web era quello di mostrare le mie conoscenze e capacità nella progettazione web. Utilizza VueJS come libreria JS principale e più estensioni e framework Vue come I18n, V-router, alcuni elementi Vuetify e molti altri",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/cv_website_ckamdp.webp"
+      },
+      {
+        "id": 4,
+        "name": "Data Dashboard",
+        "year": "2019",
+        "type": "Applicazione Web",
+        "main_language": "Java",
+        "technology": [
+          "javaee",
+          "js",
+          "html",
+          "css",
+          "bootstrap",
+          "postgre"
+        ],
+        "description": "Sito Web, in cui vengono presentati i dati e le statistiche dell'organizzazione. È basato su Java EE come back-end, Bootstrap,  Google sign-in e Apache Servlet",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/cofano_msaoev.webp"
+      },
+      {
+        "id": 5,
+        "name": "App Anti-fumo",
+        "year": "2019",
+        "type": "Applicazione Mobile",
+        "main_language": "VueJS",
+        "technology": [
+          "vuejs",
+          "html",
+          "sass",
+          "python"
+        ],
+        "description": "Applicazione, scritta in VueJS, il cui scopo era aiutare i fumatori a smettere di fumare. Contiene il Python back-end per il machine learning",
+        "image": "https://res.cloudinary.com/dutap5vot/image/upload/q_auto/v1589119681/cv_website/smoker_app_cze4d3.webp"
+      }
+    ]
+  },
+  "contact": {
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Messaggio",
+    "send": "Invia",
+    "sent": "Messaggio inviato con successo!",
+    "not_sent": "Ooh... c'era un errore. Prova inviare il messaggio l'altra volta",
+    "close": "Chiudi",
+    "form": "Modulo di Contatto"
+  },
+  "languages": {
+    "polish": "Polacco",
+    "italian": "Italiano",
+    "spanish": "Spagnolo",
+    "english": "Inglese"
+  },
+  "levels": {
+    "native": "Madrelingua",
+    "fluent": "Fluente",
+    "communicative": "Communicativo",
+    "elementary": "Elementario"
+  },
+  "error_404": {
+    "msg": "Ooh... questa pagina non esiste. Vai alla pagina Home ;)"
+  }
+}
